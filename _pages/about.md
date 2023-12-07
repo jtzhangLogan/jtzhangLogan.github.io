@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+I am a second year Computer Science Ph.D. student Johns Hopkins University.
+I am advised by Dr. Emad Boctor and Dr. Peter Kazanzides.
+
+My research focus on developing:
+* Imaging systems for clinical applications.
+* Machine learning solutions for medical robot and medical imaging.
+* Simulation framework for robot learning in medical field.
+* Embedded & firmware development for open-source medical robot research platform (dVRK).
+
+
+## <i class="fas fa-rss "></i>   Updates
+  08.29.2022 &nbsp; Started Ph.D. at Johns Hopkins University. \\
+  06.07.2022 &nbsp; Received Best Paper Runner Up Award at IPCAI 2022.\\
+  04.15.2022 &nbsp; Received Best Paper Award at ISMR 2022.
+
+<!--- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +64,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
