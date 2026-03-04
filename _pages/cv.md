@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Full CV](/files/jintanzhang_cv.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work experience 
+===============
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+| --- | --- | --- | 
+|05/2022 --- 08/2022| Video Software Engineering Intern | Intuitive Surgical Inc. | 
 
-Publications
+
+
+Education  
+=========
+
+| --- | --- | --- | 
+|08/2022 --- Now    | **Ph.D. student in Computer Science**             | **Johns Hopkins University** | 
+|08/2021 --- 09/2022| M.S.E in Robotics                                 | Johns Hopkins University | 
+|08/2019 --- 05/2021| B.S. in Electrical Engineering & Computer Science | Johns Hopkins University | 
+|09/2017 --- 06/2019| Mechanical Engineering                            | University of California, Davis | 
+
+
+Awards 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+| --- | --- | --- | 
+|2019 - 2021| Dean’s List                           | Johns Hopkins University        | 
+|2018       | Robert A. and Denzil M. Kepner Awards | University of California, Davis |  
+|2017 - 2019| Dean’s Honor List                     | University of California, Davis | 
